@@ -40,7 +40,7 @@ const Showcase = () => {
                 </div>
             </div>
             <div className="gify">
-                <img src={Gif} alt="main-gify"className="rounded-lg ml-5" />
+                <img src={Gif} alt="main-gify"className="rounded-md ml-5" />
             </div>
            </main>
 
